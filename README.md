@@ -3,7 +3,7 @@ Bayesian quant marketing code library
 
 This is not yet a package, but may evolve into one at some point. It is a holding tank for commonly used code. It is the answer to the question: "Where can I get an optimized hierarchical mutlinomial logit estimation routine in Stan?" 
 
-Or in other words it is bayesm 2.0
+In other words it is bayesm 2.0.
 
 Q: Can I submit something? 
 A: Yes, please do it!
