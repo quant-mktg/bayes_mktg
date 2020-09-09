@@ -9,7 +9,7 @@ Q: Can I submit something?
 A: Yes, please do it!
 
 Q: How do I submit? 
-A: Make a folder and put all the scripts you need to run a toy example. 
+A: Make a folder and put all the scripts you need to run a toy example: 
  * Ideally you'd include real data, but simulated data is fine too. 
  * Include a Readme.md explaining how to run the toy example. 
  * Fork + clone the repo, add your new folder, submit a pull request.
