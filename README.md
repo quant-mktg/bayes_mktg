@@ -12,6 +12,6 @@ Q: How do I submit?
 A: Make a folder and put all the scripts you need to run a toy example. 
  * Ideally you'd include real data, but simulated data is fine too. 
  * Include a Readme.md explaining how to run the toy example. 
- * Clone the repo, add your new folder, submit a pull request.
+ * Fork + clone the repo, add your new folder, submit a pull request.
  
 We will attempt to bring some editorial unity to the style across the different contributions. So far "we" means me, but hopefully not for long!
